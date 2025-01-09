@@ -31,3 +31,9 @@ langchain-groq
 langchain-google-genai
 langchain
 langchain-coummunity
+
+cassio
+
+langchain-astradb
+wikipedia
+langgraph
