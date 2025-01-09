@@ -1,0 +1,21 @@
+llama-index-vector-stores-lancedb
+llama-index-multi-modal-llms-openai
+llama-index-embeddings-clip
+# git+https://github.com/openai/CLIP.git
+llama-index-readers-file
+llama_index
+# install -U openai-whisper
+lancedb
+moviepy
+pytube  # git+https://github.com/pytube/pytube
+pydub
+SpeechRecognition
+ffmpeg-python
+soundfile
+torchvision
+matplotlib 
+scikit-image
+ftfy 
+regex 
+tqdm
+numpy
