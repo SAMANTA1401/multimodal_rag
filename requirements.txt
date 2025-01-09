@@ -19,3 +19,15 @@ ftfy
 regex 
 tqdm
 numpy
+
+################################
+"unstructured[all-docs]"
+pillow 
+pydantic
+lxml
+matplotlib
+tesseract-ocr
+langchain-groq
+langchain-google-genai
+langchain
+langchain-coummunity

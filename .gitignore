@@ -173,3 +173,5 @@ cython_debug/
 lancedb
 mixed_data
 extradata
+content
+
