@@ -52,3 +52,4 @@ pinecone
 pdf2image
 pdfminer.six
 unstructured[pdf]
+"unstructured[pptx]"
