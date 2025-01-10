@@ -46,3 +46,9 @@ pymongo
 sentence_transformers
 transformers 
 accelerate
+
+#################################
+pinecone
+pdf2image
+pdfminer.six
+unstructured[pdf]
