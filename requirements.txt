@@ -37,7 +37,12 @@ wikipedia
 langgraph
 
 ################################
-
 "langchain[docarray]"
 faiss-cpu
 pypdf
+datasets
+pandas
+pymongo
+sentence_transformers
+transformers 
+accelerate
