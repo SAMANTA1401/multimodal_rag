@@ -38,3 +38,6 @@ langgraph
 
 ################################
 
+"langchain[docarray]"
+faiss-cpu
+pypdf
