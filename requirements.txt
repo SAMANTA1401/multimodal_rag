@@ -53,3 +53,8 @@ pdf2image
 pdfminer.six
 unstructured[pdf]
 "unstructured[pptx]"
+
+################################
+neo4j
+yfiles_jupyter_graphs
+langchain_experimental
