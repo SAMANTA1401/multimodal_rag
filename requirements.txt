@@ -58,3 +58,11 @@ unstructured[pdf]
 neo4j
 yfiles_jupyter_graphs
 langchain_experimental
+
+################################
+scikit-learn
+chromadb
+rank_bm25
+bitsandbytes #  required cuda
+
+# pip install --force-reinstall 'https://github.com/bitsandbytes-foundation/bitsandbytes/releases/download/continuous-release_multi-backend-refactor/bitsandbytes-0.44.1.dev0-py3-none-win_amd64.whl'
