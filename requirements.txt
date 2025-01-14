@@ -13,9 +13,10 @@ SpeechRecognition
 ffmpeg-python
 soundfile
 torchvision
+# torch : torchvision need torch==2.2.2 and other libraries need 2.5.1 face conflicts so as numpy, 
 matplotlib 
 scikit-image
-ftfy 
+ftfy  
 regex 
 tqdm
 numpy
